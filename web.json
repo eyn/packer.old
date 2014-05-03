@@ -50,5 +50,9 @@
       "scripts/puppet.sh",
       "scripts/compact.sh"
     ]
+  },{
+    "type": "puppet-masterless",
+    "manifest_file": "puppet/manifests/web.pp",
+    "module_paths": ["puppet/modules/"]
   }]
 }
