@@ -47,7 +47,7 @@
     "scripts": [
       "scripts/vagrant.sh",
       "scripts/vboxguest.sh",
-      "scripts/puppet.sh"
+      "scripts/puppet.sh",
       "scripts/compact.sh"
     ]
   }]
