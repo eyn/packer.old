@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 # Install Puppet-common for standalone 
-apt-get install puppet-common
+apt-get --yes --force-yes install puppet-common
